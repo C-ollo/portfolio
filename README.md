@@ -21,7 +21,7 @@ Its a landing page about myself
 - Git & Github
 
 ## Live Link
-https://c-ollo.github.io/about-me
+https://c-ollo.github.io/portfolio
 <!-- https://username.github.io/repository-name -->
 
 ## License
