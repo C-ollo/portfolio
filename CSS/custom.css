@@ -27,6 +27,7 @@ img {
     margin: 20px;
     border-style: solid;
     border-radius: 3%;
+    border-color: blueviolet;
   }
   .project {
     width: 300px;
@@ -46,6 +47,7 @@ img {
     margin: 50px;
     border-style: groove;
     border-radius: 3%;
+    border-color: blueviolet;
   }
   .about-me h2 {
     font-size: 36px;
