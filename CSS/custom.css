@@ -29,6 +29,8 @@ img {
     border-style: solid;
     border-radius: 3%;
     border-color: blueviolet;
+    background-color: brown;
+    opacity: 0.7;
   }
   .project {
     width: 300px;
@@ -50,10 +52,14 @@ img {
     border-style: groove;
     border-radius: 3%;
     border-color: blueviolet;
+    opacity: 0.7;
+    background-color: brown;
   }
   .about-me h2 {
     font-size: 36px;
     margin-bottom: 20px;
+    
+    
   }
 
 
