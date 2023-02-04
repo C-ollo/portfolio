@@ -25,6 +25,8 @@ img {
     flex-wrap: wrap;
     justify-content: center;
     margin: 20px;
+    border-style: solid;
+    border-radius: 3%;
   }
   .project {
     width: 300px;
@@ -41,7 +43,9 @@ img {
   }
   .about-me {
     text-align: left;
-    margin-top: 50px;
+    margin: 50px;
+    border-style: groove;
+    border-radius: 3%;
   }
   .about-me h2 {
     font-size: 36px;
